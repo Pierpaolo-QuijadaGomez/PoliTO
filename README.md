@@ -1,1 +1,2 @@
 # PoliTO
+Esercizi di Informatica
