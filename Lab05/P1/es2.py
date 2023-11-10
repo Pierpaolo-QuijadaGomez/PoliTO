@@ -1,0 +1,1 @@
+nazione = input("Nazione: ")
